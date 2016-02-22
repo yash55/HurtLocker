@@ -1,4 +1,4 @@
-name:    Milk 		 seen: 6 times
+ name:    Milk 		 seen: 6 times
 ============= 	 	 =============
 Price: 	 3.23		 seen: 5 times
 -------------		 -------------
